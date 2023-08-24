@@ -1,5 +1,5 @@
 # CNN to identify malign moles on skin
-#### *by David Soto*  - dasoto@gmail.com
+#### *by Aniruddha Kasar*  - aniruddhakasar2001@gmail.com
 @Galvanize Data Science Immersive Program
 ### 1. Project Summary and motivation
 The purpose of this project is to create a tool that considering the image of a
@@ -224,9 +224,7 @@ The results obtained until now can be shown on the ROC curve presented below:
 
 #### 6.3 webApp
 
-  In order to kae in consideration the user of different platforms, I also create a web App that can be accessed on:
-   http://skinmolesrisk.ddns.net:7000
-  This app is responsive so can be used directly from any mobile phone or web browser.
+  In order to kae in consideration the user of different platforms.
 
   ![](images/webApp1.png?raw=true)
 
